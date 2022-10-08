@@ -11,7 +11,7 @@ const Header = () => {
 
   return (
     <Container>
-      <a>
+      <a href="#">
         <img src="/images/logo.svg" />
       </a>
       <Menu>
